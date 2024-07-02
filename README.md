@@ -21,13 +21,13 @@ Description: A line chart tracking the revenue over the course of a year (2016),
 Revenue trends show significant growth early in the year, with some fluctuations and an overall upward trend.
 
 ## Gallery
-![Dashboard 1.png]
+![screenshot](Dashboard.png)
 
 ## Usage
 To explore the dashboard:
-Open the Tableau Public link provided.
-Navigate through the different visualizations to get insights into the real estate market data.
-Use filters and interactive elements to customize your view and drill down into specific data points.
+  * Open the [Tableau Public Link](https://public.tableau.com/views/Book1_17198266178480/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link).
+  * Navigate through the different visualizations to get insights into the real estate market data.
+  * Use filters and interactive elements to customize your view and drill down into specific data points.
 ## Data Source
 The data used in this dashboard comes from Tableau-AirBnB.xlsx
 ## Conclusion

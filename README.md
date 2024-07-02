@@ -19,6 +19,10 @@ Key Insight: 1-bedroom listings are the most common, followed by 2-bedroom listi
 Description: A line chart tracking the revenue over the course of a year (2016), with data points for each week.
 ## Key Insight
 Revenue trends show significant growth early in the year, with some fluctuations and an overall upward trend.
+
+## Gallery
+![Dashboard 1.png]
+
 ## Usage
 To explore the dashboard:
 Open the Tableau Public link provided.
